@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Server">
+    <output-path>$PROJECT_DIR$/out/artifacts/Server</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ScalaServer/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: org.scala-lang:scala-compiler:2.10.2" />
+          <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.10.2" />
+          <element id="library" level="project" name="Maven: org.scala-lang:scala-reflect:2.10.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.2.4.RELEASE" />
+        </element>
+        <element id="directory" name="classes">
+          <element id="module-output" name="ScalaServer" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

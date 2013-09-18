@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IdProvider" IDEtalkID="AEC35FD1719DA48B10C7AD7848BAD083" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PomSorter">
+    <option name="defaultSortMode" value="ALPHABETIC" />
+    <option name="order">
+      <list>
+        <TagSortingSetting>
+          <option name="mode" value="FIXED" />
+          <option name="name" value="dependency" />
+          <option name="order">
+            <list>
+              <option value="groupId" />
+              <option value="artifactId" />
+              <option value="version" />
+              <option value="scope" />
+            </list>
+          </option>
+        </TagSortingSetting>
+        <TagSortingSetting>
+          <option name="mode" value="FIXED" />
+          <option name="name" value="project" />
+          <option name="order">
+            <list>
+              <option value="modelVersion" />
+              <option value="parent" />
+              <option value="groupId" />
+              <option value="artifactId" />
+              <option value="version" />
+              <option value="packaging" />
+              <option value="name" />
+              <option value="description" />
+              <option value="url" />
+              <option value="inceptionYear" />
+              <option value="licenses" />
+              <option value="organization" />
+              <option value="properties" />
+              <option value="modules" />
+              <option value="dependencyManagement" />
+              <option value="dependencies" />
+              <option value="build" />
+              <option value="reporting" />
+              <option value="issueManagement" />
+              <option value="ciManagement" />
+              <option value="mailingLists" />
+              <option value="scm" />
+              <option value="prerequisites" />
+              <option value="repositories" />
+              <option value="pluginRepositories" />
+              <option value="distributionManagement" />
+              <option value="profiles" />
+              <option value="developers" />
+              <option value="contributors" />
+            </list>
+          </option>
+        </TagSortingSetting>
+        <TagSortingSetting>
+          <option name="mode" value="ARTIFACT" />
+          <option name="name" value="dependencies" />
+        </TagSortingSetting>
+        <TagSortingSetting>
+          <option name="mode" value="FIXED" />
+          <option name="name" value="pluginRepository" />
+          <option name="order">
+            <list>
+              <option value="id" />
+              <option value="url" />
+            </list>
+          </option>
+        </TagSortingSetting>
+        <TagSortingSetting>
+          <option name="mode" value="FIXED" />
+          <option name="name" value="build" />
+          <option name="order">
+            <list>
+              <option value="finalName" />
+              <option value="resources" />
+              <option value="testResources" />
+              <option value="filters" />
+              <option value="pluginManagement" />
+              <option value="plugins" />
+            </list>
+          </option>
+        </TagSortingSetting>
+        <TagSortingSetting>
+          <option name="mode" value="FIXED" />
+          <option name="name" value="plugin" />
+          <option name="order">
+            <list>
+              <option value="groupId" />
+              <option value="artifactId" />
+              <option value="version" />
+              <option value="scope" />
+            </list>
+          </option>
+        </TagSortingSetting>
+        <TagSortingSetting>
+          <option name="mode" value="FIXED" />
+          <option name="name" value="profile" />
+          <option name="order">
+            <list>
+              <option value="id" />
+            </list>
+          </option>
+        </TagSortingSetting>
+        <TagSortingSetting>
+          <option name="mode" value="FIXED" />
+          <option name="name" value="execution" />
+          <option name="order">
+            <list>
+              <option value="id" />
+              <option value="phase" />
+            </list>
+          </option>
+        </TagSortingSetting>
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
