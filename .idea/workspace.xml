@@ -2,30 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a29c577-6640-44ae-9abd-f0ceeb475206" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/ControllerTest.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/scala/helpers/EmbeddedTomcat.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/dav/server/HomeController.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/dav/server/HomeController.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScalaServer.iml" afterPath="$PROJECT_DIR$/ScalaServer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="ScalaServer.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/fragment.java" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379523223468" ignored="false" />
     <file path="/pom.xml" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379784063049" ignored="false" />
     <file path="/Controller.scala" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379522803981" ignored="false" />
-    <file path="/Dummy.txt" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379785053537" ignored="false" />
+    <file path="/Dummy.txt" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379785652749" ignored="false" />
     <file path="/application.xml" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379525165623" ignored="false" />
     <file path="/HomeController.scala" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379782754406" ignored="false" />
     <file path="/web.xml" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379524639194" ignored="false" />
     <file path="/private/tmp/scala-spring-mvc/.idea/workspace.xml" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379526924877" ignored="false" />
     <file path="/.gitignore" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379785113897" ignored="false" />
-    <file path="/ControllerTest.scala" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379785014560" ignored="false" />
+    <file path="/ControllerTest.scala" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379785468607" ignored="false" />
     <file path="/Server.scala" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379781346970" ignored="false" />
     <file path="/EmbededTomcat.scala" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379782169077" ignored="false" />
-    <file path="/EmbeddedTomcat.scala" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379782151901" ignored="false" />
+    <file path="/EmbeddedTomcat.scala" changelist="7a29c577-6640-44ae-9abd-f0ceeb475206" time="1379785578464" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,10 +89,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmbeddedTomcat.scala" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="EmbeddedTomcat.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/helpers/EmbeddedTomcat.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="18" selection-start="408" selection-end="408" vertical-scroll-proportion="0.58536583">
+            <state line="5" column="7" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#17#58#0" expanded="true" />
               </folding>
@@ -109,10 +103,19 @@
       <file leaf-file-name="ControllerTest.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/ControllerTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="14" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
+            <state line="14" column="39" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Specification.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/specs2/specs2_2.10/2.2.2/specs2_2.10-2.2.2-sources.jar!/org/specs2/mutable/Specification.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -135,10 +138,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar!/scala/package.class">
+      <file leaf-file-name="package.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2-sources.jar!/scala/package.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="51" selection-start="2924" selection-end="2924" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -153,28 +156,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2-sources.jar!/scala/package.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="13" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeController.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/dav/server/HomeController.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="11" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
+            <state line="4" column="16" selection-start="36" selection-end="36" vertical-scroll-proportion="0.17582418">
               <folding />
             </state>
           </provider>
@@ -206,10 +191,10 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/application.xml" />
         <option value="$PROJECT_DIR$/src/test/scala/helpers/Server.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/helpers/EmbededTomcat.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/helpers/EmbeddedTomcat.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/dav/server/HomeController.scala" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/scala/ControllerTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/helpers/EmbeddedTomcat.scala" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -379,6 +364,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="helpers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EmbeddedTomcat.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -760,6 +749,15 @@
       <created>1364154160113</created>
       <updated>1364154160113</updated>
     </task>
+    <task id="LOCAL-00001" summary="added basic controller end-to-end testings">
+      <created>1379785312127</created>
+      <updated>1379785312127</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed embeddedTomcat initiation">
+      <created>1379785657081</created>
+      <updated>1379785657081</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -836,7 +834,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed embeddedTomcat initiation" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -850,6 +848,8 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="added basic controller end-to-end testings" />
+    <MESSAGE value="changed embeddedTomcat initiation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -859,20 +859,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.2.RELEASE/spring-context-3.2.2.RELEASE.jar!/org/springframework/context/config/spring-context-3.1.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="42" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/application.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="56" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ScalaServer.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="71" column="0" selection-start="5097" selection-end="5097" vertical-scroll-proportion="0.0">
@@ -917,13 +903,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2-sources.jar!/scala/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2-sources.jar!/scala/collection/mutable/StringBuilder.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="250" column="64" selection-start="8517" selection-end="8518" vertical-scroll-proportion="-6.76">
@@ -959,28 +938,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/specs2/specs2_2.10/2.2.2/specs2_2.10-2.2.2.jar!/org/specs2/mutable/Specification.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+        <state line="2" column="66" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2-sources.jar!/scala/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/specs2/specs2_2.10/2.2.2/specs2_2.10-2.2.2-sources.jar!/org/specs2/mutable/Specification.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/helpers/EmbeddedTomcat.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="7" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#17#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/ControllerTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="14" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
+        <state line="14" column="39" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/helpers/EmbeddedTomcat.scala">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="408" selection-end="408" vertical-scroll-proportion="0.58536583">
-          <folding>
-            <element signature="e#17#58#0" expanded="true" />
-          </folding>
+        <state line="4" column="16" selection-start="36" selection-end="36" vertical-scroll-proportion="0.17582418">
+          <folding />
         </state>
       </provider>
     </entry>
