@@ -19,11 +19,6 @@
             <name>Scala-tools Maven2 Repository</name>
             <url>http://scala-tools.org/repo-releases</url>
         </repository>
-        <repository>
-            <id>repo.bigbeeconsultants.co.uk</id>
-            <name>bigbeeconsultants</name>
-            <url>http://repo.bigbeeconsultants.co.uk/repo</url>
-        </repository>
     </repositories>
 
     <pluginRepositories>
