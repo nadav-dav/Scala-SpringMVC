@@ -8,16 +8,16 @@ object EmbeddedTomcat {
   val tomcat = new Tomcat()
   var isOn = false
 
-  def start {
+  def start() {
     tomcat.setBaseDir("./target")
     tomcat.setPort(8080)
-    tomcat.addWebapp("/", new File(webappDirLocation).getAbsolutePath())
-    println("configuring app with basedir: " + new File("./" + webappDirLocation).getAbsolutePath())
+    tomcat.addWebapp("/", new File(webappDirLocation).getAbsolutePath)
+    println("configuring app with basedir: " + new File("./" + webappDirLocation).getAbsolutePath)
     tomcat.start()
     isOn = true
   }
 
-  def stop {
+  def stop() {
     tomcat.stop()
     isOn = false
   }
@@ -25,6 +25,6 @@ object EmbeddedTomcat {
 
 trait EmbeddedTomcat {
   if (!EmbeddedTomcat.isOn){
-    EmbeddedTomcat.start
+    EmbeddedTomcat.start()
   }
 }
