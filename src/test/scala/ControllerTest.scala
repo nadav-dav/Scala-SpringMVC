@@ -1,9 +1,9 @@
-import helpers.EmbeddedTomcat
+import helpers.{EmbeddedJetty, EmbeddedTomcat}
 import org.specs2.mutable.Specification
 import org.specs2.specification.Scope
 import scalaj.http.Http
 
-class ControllerTest extends Specification with EmbeddedTomcat{
+class ControllerTest extends Specification with EmbeddedJetty{
   trait Context extends Scope {
     val localServer = "http://localhost:8080"
   }
