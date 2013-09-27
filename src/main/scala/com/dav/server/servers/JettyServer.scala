@@ -1,10 +1,11 @@
 package helpers
 
-import org.mortbay.jetty.Server
-import org.mortbay.resource.ResourceCollection
-import org.mortbay.jetty.webapp.WebAppContext
+import org.eclipse.jetty.server.Server
+import org.eclipse.jetty.webapp.WebAppContext
+import org.eclipse.jetty.util.resource.ResourceCollection
 
-object EmbeddedJetty {
+
+object JettyServer extends com.dav.server.servers.Server {
   private val webappDirLocation = "src/main/webapp/"
   private var isOn = false
   private val server : Server = new Server(8080)
@@ -25,8 +26,8 @@ object EmbeddedJetty {
   }
 }
 
-trait EmbeddedJetty {
-  if (!EmbeddedJetty.isOn){
-    EmbeddedJetty.start()
+trait JettyServer {
+  if (!JettyServer.isOn){
+    JettyServer.start()
   }
 }

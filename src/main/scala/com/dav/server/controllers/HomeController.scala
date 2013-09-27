@@ -1,4 +1,4 @@
-package com.dav.server
+package com.dav.server.controllers
 
 import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.{ResponseBody, RequestMapping}
